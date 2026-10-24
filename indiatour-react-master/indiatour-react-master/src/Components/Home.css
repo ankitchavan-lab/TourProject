@@ -1,0 +1,34 @@
+.img_all{
+    width : 450px;
+    height: 230px;
+    object-fit: cover;
+}
+
+.Album_text{
+   color:aqua;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.bck{
+    background-color:black;
+    
+}
+.album_btn{
+    margin: 0px 130px;
+    /* align-items: center;
+    align-self: center; */
+    display: inline-block;
+}
+.album_img{
+    border-radius: 10px;
+    transition: transform 0.8s;
+    margin: 10px;
+    width: auto;
+    height:auto;
+    
+}
+/* .album_img:hover{
+    transform: scale(1.05);
+} */
